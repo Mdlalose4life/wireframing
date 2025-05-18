@@ -84,6 +84,33 @@ By stripping away colors and detailed visuals, wireframes keep everyone focused 
 
 - **Example**: A mobile wireframe ensures the team prioritizes intuitive layout and responsive design before deciding on fonts or colors.
 
+## Types of Wireframes
+
+Wireframes help visualize the layout and flow of a product before development. There are two main types:
+
+### Low-Fidelity Wireframes
+These are basic, often hand-drawn or simple digital sketches. They show structure and content placement without much detail.
+
+- **Used:** Early in the design process
+- **Purpose:** Brainstorming, quick feedback
+- **Style:** Simple shapes, placeholder text, no styling
+
+### High-Fidelity Wireframes
+These closely resemble the final design, showing detailed layout, real content, and sometimes interactivity.
+
+- **Used:** Later in the design process
+- **Purpose:** Usability testing, developer handoff
+- **Style:** Accurate spacing, branding, styled elements
+
+---
+
+## Wireframe Type in This Project
+
+The wireframe used here is a **high-fidelity** wireframe.
+
+It includes detailed UI elements and real content, making it suitable for usability testing and guiding the development phase.
+
+
 ## Use Cases
 
 - Planning user interfaces for websites and mobile apps
